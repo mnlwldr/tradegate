@@ -4,7 +4,7 @@ You can use this to retrieve the current information of an stock from Tradegate
 
 ## How to use it
 ```go
-import "https://github.com/mnlwldr/tadegate"
+import "https://github.com/mnlwldr/tradegate"
 ```
 
 ## Data
